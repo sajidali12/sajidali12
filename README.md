@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sajidali12
 - 👀 I’m interested in Web Applications Development
-- 🌱 I’m currently working on React js | Vue js | Open AI | LLM | Chatbot Development | Shopify | Wordpress | Nodejs 
+- 🌱 I’m currently working on Payload CMS | React js | Vue js | Open AI | LLM | Chatbot Development | Shopify | Wordpress | Nodejs 
 - 💞️ I’m looking to collaborate on Web Development Projects | Javascript Projects | php Projects
 - 📫 How to reach me 03365707907 | rizvisajid4@gmail.com
 
